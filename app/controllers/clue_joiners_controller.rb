@@ -1,0 +1,2 @@
+class ClueJoinersController < ApplicationController
+end

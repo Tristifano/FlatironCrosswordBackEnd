@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  across_word: 1
+  down_word: 1
+  index: 1
+  letter: MyString
+
+two:
+  across_word: 1
+  down_word: 1
+  index: 1
+  letter: MyString

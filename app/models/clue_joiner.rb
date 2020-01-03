@@ -1,0 +1,2 @@
+class ClueJoiner < ApplicationRecord
+end
